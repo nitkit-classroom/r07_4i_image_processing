@@ -1,6 +1,10 @@
 # 授業範囲
 - P.10～P.49
 
+# OpenCVのセットアップ
+PowerShellで下記コマンドを実行する
+`> pip install opencv-python, opencv-contrib-python
+
 # 課題(1)：用語課題
 これらの用語について調べ、1～2行程度の説明を付けること。PDFとして提出すること
 - 画像処理
