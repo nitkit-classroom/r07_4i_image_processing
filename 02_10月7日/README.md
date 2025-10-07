@@ -24,8 +24,8 @@
 画像のRGBヒストグラムを計算し，画像として保存するプログラム．ただし，下記仕様に沿うこと
 - ファイル名：program2a.py（ただし提出時はprogram2a.txtにリネームすること）
 - 実行は，次のコマンドによること
-	- [凡例] `$ python program2a.py <画像ファイル名の引数>` `<出力先ファイル名の引数>`
-	- [サンプル] `$ python program2a.py sample.png sample_histgram.png`
+	- [凡例] `$ python program2a.py <画像ファイル名の引数> <出力先ファイル名の引数> <binの幅>`
+	- [サンプル] `$ python program2a.py sample.png sample_histgram.png 1`
 - 出力は`sample_histgram.png`を参照すること
 
 ### 課題2b RGB画像からHSVへの変換
@@ -34,7 +34,7 @@
 	- ファイルの保存形態は，リスト1へ沿うこと
 	- ヘッダ等，余計な情報は不要．純粋に数値のみを出力すること
 - 実行は，次のコマンドによること
-	- [凡例] `$ python program2b.py <画像ファイル名の引数>` `<出力先ファイル名の引数>`
+	- [凡例] `$ python program2b.py <画像ファイル名の引数> <出力先ファイル名の引数>`
 	- [サンプル] `$ python program2b.py sample.png hsv.csv`
 - Hは0–360度，SとVは0–100%に正規化すること
 - 数値の変換には関数を用いず，**自前で計算式を実装**すること
