@@ -27,7 +27,7 @@
 	- [凡例] `$ python kadai2a.py <画像ファイル名> <ガンマ値>`
 	- [サンプル] `$ python kadai2a.py sample_gs.png 2.2`
 - 入出力サンプル
-	- [入力サンプル](sample_gs.jpg)
+	- [入力サンプル](../04_10月21日/sample_gs.jpg)
 	- [出力サンプル](サンプル（ガンマ値2.2）output.png)
 
 ### 課題2b マスク処理による画像合成プログラム
