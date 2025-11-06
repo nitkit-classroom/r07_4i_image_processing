@@ -38,7 +38,7 @@
 
 - ファイル名：`kadai06.py`（ただし提出時は拡張子を.txtへリネームすること）
 - 実行時は次のコマンドによること
-    - [凡例] `$ python kadai06.py <入力画像ファイル名> <拡大率> <縮小率> <回転角度>（ラジアン） <スキューのパラメタθ（ラジアン）> <平行移動tx> <平行移動ty>`
+    - [凡例] `$ python kadai06.py <入力画像ファイル名> <拡大率> <縮小率> <回転角度（ラジアン）> <スキューのパラメタθ（ラジアン）> <平行移動tx[px]> <平行移動ty[px]>`
     - [サンプル] `$ python kadai06.py sample.png 1.5 0.8 0.79 0.79 30 50`
 - 出力時，次の画像ファイルを全て出力すること．元画像は必要に応じて0埋め処理を施し，画像サイズは変わらないようにすること．
     1. `img01_kakudai.png`：拡大率に合わせて画像を拡大
@@ -67,13 +67,10 @@
 ```
 - 参考に，sample.pngを入力した際に出力を期待する画像群を下記に示す．
 
-<img src="sample.png" width=250 height=250>  
-sample.png
+<img src="sample.png" width=250 height=250><br>`sample.png`
 
 <table>
-<tr><td><img src="img01_kakudai.png"></td><td><img src="img02_syukusyo.png"></td><td><img src="img03_kaiten.png"></td></tr>
-<tr><td><img src="img04_kyoei.png"></td><td><img src="img05_sukyu.png"></td><td><img src="img06_heiko.png"></td></tr>
+<tr><td><img src="img01_kakudai.png"><br>`img01_kakudai.png`</td><td><img src="img02_syukusyo.png"><br></td><td><img src="img03_kaiten.png"><br>`img03_kaiten.png`</td></tr>
+<tr><td><img src="img04_kyoei.png"><br>`img04_kyoei.png`</td><td><img src="img05_sukyu.png"><br>`img05_sukyu.png`</td><td><img src="img06_heiko.png"><br>`img06_heiko.png`</td></tr>
 </table>  
-出力画像群  
-左上から`img01_kakudai.png`，`img02_syukusyo.png`，`img03_kaiten.png`，  
-右下から`img04_kyoei.png`，`img05_sukyu.png`，`img06_heiko.png`
+出力画像群
