@@ -72,4 +72,4 @@
 <table>
 <tr><td><img src="img01_kakudai.png"><br>img01_kakudai.png</td><td><img src="img02_syukusyo.png"><br>img02_syukusyo.png<br></td><td><img src="img03_kaiten.png"><br>img03_kaiten.png</td></tr>
 <tr><td><img src="img04_kyoei.png"><br>img04_kyoei.png</td><td><img src="img05_sukyu.png"><br>img05_sukyu.png</td><td><img src="img06_heiko.png"><br>img06_heiko.png</td></tr>
-</table><br>出力画像群
+</table>
