@@ -67,10 +67,9 @@
 ```
 - 参考に，sample.pngを入力した際に出力を期待する画像群を下記に示す．
 
-<img src="sample.png" width=250 height=250><br>`sample.png`
+<img src="sample.png" width=250 height=250><br>sample.png
 
 <table>
-<tr><td><img src="img01_kakudai.png"><br>`img01_kakudai.png`</td><td><img src="img02_syukusyo.png"><br></td><td><img src="img03_kaiten.png"><br>`img03_kaiten.png`</td></tr>
-<tr><td><img src="img04_kyoei.png"><br>`img04_kyoei.png`</td><td><img src="img05_sukyu.png"><br>`img05_sukyu.png`</td><td><img src="img06_heiko.png"><br>`img06_heiko.png`</td></tr>
-</table>  
-出力画像群
+<tr><td><img src="img01_kakudai.png"><br>img01_kakudai.png</td><td><img src="img02_syukusyo.png">img02_syukusyo.png<br></td><td><img src="img03_kaiten.png"><br>img03_kaiten.png</td></tr>
+<tr><td><img src="img04_kyoei.png"><br>img04_kyoei.png</td><td><img src="img05_sukyu.png"><br>img05_sukyu.png</td><td><img src="img06_heiko.png"><br>img06_heiko.png</td></tr>
+</table><br>出力画像群
