@@ -65,7 +65,9 @@
         3.1.1.2 その座標に「ある1画素」のデータをコピーする
   4. 画像を保存する
 ```
-- 参考に，sample.pngを入力した際に出力を期待する画像群を下記に示す．
+- 参考
+	1. 下記にsample.pngを入力した際に出力を期待する画像群を示す．
+	2. [kadai03_sample.py](kadai03_sample.py)に，処理未記入のプログラムサンプルを示す．このサンプルを活用しても良いし，しなくても良い
 
 <table><tr><td><img src="sample.png" width=250 height=250><br>sample.png</td></tr></table>
 
