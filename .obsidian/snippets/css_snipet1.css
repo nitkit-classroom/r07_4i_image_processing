@@ -1,0 +1,62 @@
+body {
+  --line-width: 50rem;
+  --p-spacing: 1em;
+  --h2-size: 1.075em;
+  --h2-color: #a1c0da;
+  --h3-color: #a1c0da;
+  --metadata-display-reading: none;
+}
+
+.cm-contentContainer .cm-line.HyperMD-header {
+  padding-bottom: 0.6em;
+}
+
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+  margin-bottom: -0.4em;
+}
+
+.theme-dark {
+  --tx2up: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 60%));
+  --tx3up: hsl(var(--base-h), calc(var(--base-s) - 15%), calc(var(--base-l) + 35%));
+  --nav-item-color: var(--tx2up);
+  --list-marker-color: var(--tx3up);
+  --text-formatting: var(--tx2up);
+  --ax1up: hsl(180, 35%, 80%);
+  --text-accent: var(--ax1up);
+}
+
+.theme-dark a {
+  color: hsl(180, 35%, 80%);
+}
+
+.metadata-container {
+  --metadata-gap: 0px;
+  --input-height: 1.5rem;
+  margin-block-end: 0.1rem;
+}
+
+.metadata-add-button {
+  display: none;
+}
+
+.metadata-properties-heading {
+  font-size: 0.6em;
+  margin-bottom: 0.2rem;
+}
+
+.metadata-container.is-collapsed {
+  margin-bottom: -2em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.metadata-properties-heading.is-collapsed:not(:hover) {
+  transition: linear .3s;
+  opacity: 0;
+  height: 1em;
+}
+
+.metadata-properties-heading.is-collapsed {
+  transition: linear .3s .2s;
+  height: 1em;
+}

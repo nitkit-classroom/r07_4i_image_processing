@@ -1,0 +1,10 @@
+{
+	"id": "marp",
+	"name": "Marp",
+	"version": "1.5.0",
+	"minAppVersion": "1.0.0",
+	"description": "Plugin for using Marp on Obsidian.",
+	"author": "JichouP",
+	"authorUrl": "https://github.com/JichouP",
+	"isDesktopOnly": true
+}

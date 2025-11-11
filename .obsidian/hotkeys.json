@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:Settings/Template/insert-ins.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "marp:open-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
