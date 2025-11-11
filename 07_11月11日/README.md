@@ -90,7 +90,7 @@
 
 <img src="materials/Pasted%20image%2020251111120014.png" width=500>
 
-<img src="materials/Pasted%20image%2020251111120603.png" width=200>
+<img src="materials/Pasted%20image%2020251111120603.png" width=300>
 
 
 <img src="materials/Pasted%20image%2020251111120154.png" width=300><br>図14 ある画像
