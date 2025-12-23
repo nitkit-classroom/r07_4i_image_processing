@@ -127,3 +127,8 @@
 
 # 課題
 [ptile.py](work/ptile.py)を改造して，判別分析法を実装せよ
+- 実行コマンドは次の通り
+	- 凡例：python <プログラム名> <入力画像ファイル名>
+	- サンプル：python hanbetsu.py test.jpg
+- 出力ファイル名は`output.png`とすること
+- 拡張子を「.py」から「.txt」へリネームして提出すること
